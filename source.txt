@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+
 hello, Silas Bucur!
 hello, Merge CONFLICT!!
-=======
 hello, Juan Aracena!
 hello, Merge CONFLICT!!
->>>>>>> c2476f5aeb34dc0e178eefae861f5ec2d27262f7
+hello, Luke Po!
+hello, Guilherme Vilatoro Taglianeti!
+hello, diego perez-torres!
+hello, Merge CONFLICT!!
+hello, Juan Aracena!
+hello, Merge CONFLICT!!
+Hello!!!!!!!!!!!

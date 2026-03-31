@@ -1,1 +1,1 @@
-hello, Merge CONFLICT!!
+hello, world!

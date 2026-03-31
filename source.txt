@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello, Guilherme Vilatoro Taglianeti!
+=======
+hello, Merge CONFLICT!!
+>>>>>>> f5519a829cf8fd11fbb2565f8a1e3cb33868e71a

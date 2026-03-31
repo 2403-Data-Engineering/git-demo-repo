@@ -1,1 +1,1 @@
-hello, John Wilkins!
+hello, world!
